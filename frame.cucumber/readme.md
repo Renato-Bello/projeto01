@@ -1,4 +1,4 @@
-#Projeto de Automação de Testes - Site Buger Eats
+# Projeto de Automação de Testes - Site Buger Eats
 
 Este é um projeto para automação de testes para o site do Burger eats, implementamos automação na funcionalidade de cadastro para fazer entregas, utilizando as tecnologias:
 
